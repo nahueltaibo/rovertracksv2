@@ -1,0 +1,6 @@
+Adafruit-GPIO==1.0.3
+Adafruit-MotorHAT==1.4.0
+Adafruit-PureIO==0.2.3
+evdev==1.1.0
+RPi.GPIO==0.6.3
+spidev==3.2
